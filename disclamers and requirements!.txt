@@ -1,0 +1,11 @@
+For LCQT to work you have to turn off your antivirus. You have to turn it off because 
+it injects scripts into the real Lunar client and Antivirus would detect it as many viruses which include Trojan etc.
+For people who didnt understand this is NOT A VIRUS!!! 
+---
+[You have to have the real Lunar client for this to work!!]
+---
+This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
+
+This privacy policy (“Policy”) describes the data practices of Moonsworth, LLC and its subsidiaries (collectively, “we”, or “Company”), covering its services under its control, including this website, any products, mobile applications, or PC applications (collectively “Services”). By using the Services, you are consenting to this Policy and the processing of your data in the manner provided in this Policy. If you do not agree with these terms, please do not use the Services.
+This Privacy Policy was last updated on August 5th, 2022 and it still works till now.
+
